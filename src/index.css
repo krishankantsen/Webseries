@@ -1,13 +1,17 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.Heading{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
 }
+body{
+    background-image: url("/images/desktop-1920x1080.jpg");
+    
+}
+.parent{
+    display: inline-flex;
+    
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+}
+.parent2{
+    display: inline-flex;
 }
