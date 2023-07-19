@@ -3,25 +3,30 @@
     font-weight: bold;
     font-size: 3rem;
 }
-@media (max-width: 600px) {
-    .parent{
-        display:flex;
-        
-    
-    }
-    .parent2{
-        display: flex;
-    }
-  }
+
 body{
     background-image: url("/images/desktop-1920x1080.jpg");
     
 }
 .parent{
-    display: inline-flex;
+display: grid;
+grid-template-rows: 500px 500px 500px;
+grid-template-columns: 450px 450px 450px;
+    
     
 
 }
-.parent2{
-    display: inline-flex;
+
+@media only screen and (max-width: 600px) {
+  body parent{
+     
+     background-color: brown;
+   
+   display: grid;
+
+
+ }
+ .parent2{
+     background-color: brown;
+ }
 }
