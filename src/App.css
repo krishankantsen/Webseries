@@ -4,7 +4,7 @@
   margin-bottom: 50px;
   backdrop-filter: blur(25px) saturate(200%);
   -webkit-backdrop-filter: blur(25px) saturate(200%);
-  background-color: rgba(62, 91, 145, 0.44);
+  background-color: rgba(62, 91, 145, 0.3);
   border-radius: 12px;
   border: 1px solid rgba(95, 157, 237, 0.125);
   box-sizing: border-box;
@@ -19,8 +19,8 @@
 
 .cards:hover{
   transition: 0.9ms ease-in-out;
-  transform: scale(1.1);
-  box-shadow: 10px 5px 5px rgb(54, 50, 50);
+  transform: scale(1.05);
+  box-shadow: 10px 5px 5px rgb(54, 50, 50,0.5);
   
 }
 button{
@@ -30,8 +30,8 @@ button{
   border: 2px solid rgb(0, 0, 0);
   border-radius: 6px;
   font-size: 1rem;
-  background-color: rgb(57, 132, 170);
-  color: aliceblue;
+  background-color: rgb(51, 146, 194);
+  color: rgb(255, 255, 255);
 }
 h1{
   text-align: center;

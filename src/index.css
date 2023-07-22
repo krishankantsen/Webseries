@@ -5,7 +5,8 @@
 }
 
 body {
-  background-image: url("/images/desktop-1920x1080.jpg");
+  background-color: rgb(125, 224, 246);
+  /* background-image: url("/images/desktop-1920x1080.jpg"); */
 }
 .parent {
     display: flex;

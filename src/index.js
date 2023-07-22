@@ -11,6 +11,7 @@ ReactDOM.render(<>
 <Card imgsrc="https://occ-0-3783-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdYkHwZZYZ4cYPZ20OWPg4dml1YWoI5TnX0ALc_4rHEkyvokTlifJKLD2U_ypf2wNi9Jc6Jigr53o-0syqQFrB0TLUIk1A-k1U3z.jpg?r=720" title="A webseries that you must Watch" sname="EXTRACTION" link ="https://www.netflix.com/in/title/81098494?source=35"/>
 <Card imgsrc="https://occ-0-3783-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABW2vHT_kRiIFO3spVWZwdWkXcxqJNrqkwN9mRw8q-yiY0hi3ho64Ce5nh3QXG4F5oaEZUDNYCWK8y-aKlaUMEsTmOd3mOZwIfvEQ.jpg?r=0b1" title="A webseries that you must Watch" sname="SQUID GAME" link="https://www.netflix.com/in/title/81040344?source=35"/>
 <Card imgsrc="https://occ-0-3783-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABer7SeWc6FvkBqWtk61GwL7rshAEVCOARQZVTEJGnLXykYBlO4nbbr6gs7M650BjULuaN6hucXKr5xY2iqPAajrxXd70HawdJeuD.jpg?r=608" title="A webseries that you must Watch" sname="STRANGER THINGS" link="https://www.netflix.com/in/title/80057281?source=35"/> 
+
 </div>
 </>
   ,document.getElementById('root')
